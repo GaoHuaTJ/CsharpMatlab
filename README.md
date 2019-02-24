@@ -22,3 +22,11 @@
 ![avatar](https://github.com/GaoHuaTJ/CsharpMatlab/blob/master/%E5%9B%BE%E7%89%87/64%E4%BD%8D%E7%94%9F%E6%88%90.png)
 
 ## 相关MCR资源或者MatLab资源可以联系作者：qidaxiang66@163.com
+
+# Matlab资源（安装自行百度）:
+
+![avatar](https://github.com/GaoHuaTJ/CsharpMatlab/blob/master/%E5%9B%BE%E7%89%87/85D1C45CB5FCBEC0C921DC02A8FA8935.png)
+
+# MCR 资源（安装后可以不用安装MATLAB运行本项目）
+
+![avatar](https://github.com/GaoHuaTJ/CsharpMatlab/blob/master/%E5%9B%BE%E7%89%87/85D1C45CB5FCBEC0C921DC02A8FA8935.png)
